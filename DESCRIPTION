@@ -1,0 +1,14 @@
+Package: LabnirTools
+Title: Data Analysis Package for fNIRS Lab in Tianjin Normal University 
+Version: 0.0.0.9001
+Authors@R: person("Xiaokai", "Xia", email = "xia@xiaokai.me", role = c("aut", "cre"))
+Description: Data Analysis Package for Labnir in Tianjin Normal University
+Depends: R (>= 3.3.2)
+Imports:
+    R.matlab,
+    tidyverse,
+    readxl
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0
