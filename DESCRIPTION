@@ -1,8 +1,8 @@
-Package: LabnirTools
-Title: Data Analysis Package for fNIRS Lab in Tianjin Normal University 
+Package: PsychoRLabnirs
+Title: Some useful tools for Labnirs
 Version: 0.0.0.9001
 Authors@R: person("Xiaokai", "Xia", email = "xia@xiaokai.me", role = c("aut", "cre"))
-Description: Data Analysis Package for Labnir in Tianjin Normal University
+Description: Some useful tools for Labnirs
 Depends: R (>= 3.3.2)
 Imports:
     R.matlab,
